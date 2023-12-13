@@ -1,82 +1,164 @@
-HTTrack3.49-2+htsswf+htsjava launched on Wed, 22 Nov 2023 16:38:14 at https://brandikonic.com/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
-(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://brandikonic.com/ -O1 "C:\My Web Sites\branding new website" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
-
-Information, Warnings and Errors reported for this mirror:
-note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
-	such as username/password authentication for websites mirrored in this project
-	do not share these files/folders if you want these information to remain private
-
-16:42:16	Warning: 	Retry after error -4 (No data (connection closed)) at link https://brandikonic.com/xmlrpc.php?rsd (from https://brandikonic.com/)
-16:42:16	Warning: 	Retry after error -4 (No data (connection closed)) at link https://brandikonic.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fbrandikonic.com%2F&format=xml (from https://brandikonic.com/)
-16:42:16	Error: 	"Bad Request" (400) at link https://www.googletagmanager.com/gtm.js?id= (from https://brandikonic.com/)
-16:43:27	Warning: 	Retry after error -4 (No data (connection closed)) at link https://brandikonic.com/wp-content/uploads/2023/11/Solar.png (from https://brandikonic.com/)
-16:43:27	Warning: 	Retry after error -4 (No data (connection closed)) at link https://brandikonic.com/wp-content/uploads/2023/11/20-KEY-FEATURES@3x-scaled.jpg (from https://brandikonic.com/)
-16:43:27	Error: 	"Not Found" (404) at link https://brandikonic.com/https:/brandikonic.com/wp-content/uploads/2023/09/6-Mr.-Todd.jpg (from https://brandikonic.com/)
-16:43:27	Error: 	"Not Found" (404) at link https://brandikonic.com/https:/brandikonic.com/wp-content/uploads/2023/09/5-Lukeri.jpg (from https://brandikonic.com/)
-16:43:27	Error: 	"Not Found" (404) at link https://brandikonic.com/https:/brandikonic.com/wp-content/uploads/2023/09/7-P.-Michle.jpg (from https://brandikonic.com/)
-16:43:27	Error: 	"Not Found" (404) at link https://brandikonic.com/https:/brandikonic.com/wp-content/uploads/2023/09/9-Yolanda.jpg (from https://brandikonic.com/)
-16:43:27	Error: 	"Not Found" (404) at link https://brandikonic.com/https:/brandikonic.com/wp-content/uploads/2023/09/2-Dr.-Chandresh.jpg (from https://brandikonic.com/)
-16:43:27	Error: 	"Not Found" (404) at link https://brandikonic.com/https:/brandikonic.com/wp-content/uploads/2023/09/8-Subhadip.jpg (from https://brandikonic.com/)
-16:43:27	Error: 	"Not Found" (404) at link https://brandikonic.com/https:/brandikonic.com/wp-content/uploads/2023/09/3-Dr.-Krishna.jpg (from https://brandikonic.com/)
-16:43:27	Error: 	"Not Found" (404) at link https://brandikonic.com/https:/brandikonic.com/wp-content/uploads/2023/09/1-Arun.jpg (from https://brandikonic.com/)
-16:43:27	Warning: 	Retry after error -4 (No data (connection closed)) at link https://brandikonic.com/refund-policy/ (from https://brandikonic.com/)
-16:43:33	Warning: 	Retry after error -4 (No data (connection closed)) at link https://brandikonic.com/wp-content/uploads/2023/11/Website-Design-4.png (from https://brandikonic.com/)
-16:43:33	Warning: 	Retry after error -4 (No data (connection closed)) at link https://brandikonic.com/wp-content/uploads/2023/11/Website-Design-6.png (from https://brandikonic.com/)
-16:43:33	Warning: 	Retry after error -4 (Incorrect length (20807399 Bytes, 22768169 expected)) at link https://brandikonic.com/wp-content/uploads/2023/11/PPT-4.png (from https://brandikonic.com/)
-16:43:33	Warning: 	Retry after error -4 (Incorrect length (12418791 Bytes, 18330095 expected)) at link https://brandikonic.com/wp-content/uploads/2023/11/PPT-7.png (from https://brandikonic.com/)
-16:43:36	Warning: 	Retry after error -4 (No data (connection closed)) at link https://brandikonic.com/wp-content/uploads/2023/11/PPT-14.png (from https://brandikonic.com/)
-16:43:41	Warning: 	Retry after error -4 (No data (connection closed)) at link https://brandikonic.com/xmlrpc.php?rsd (from https://brandikonic.com/)
-16:43:42	Warning: 	Moved Permanently for https://brandikonic.com/?p=169
-16:43:42	Warning: 	File has moved from https://brandikonic.com/?p=169 to https://brandikonic.com/logodesign/
-16:43:42	Warning: 	Retry after error -4 (No data (connection closed)) at link https://brandikonic.com/wp-content/uploads/2023/09/Logo_Portfolio_fashion_WD-1.jpg (from https://brandikonic.com/logodesign/)
-16:43:44	Error: 	"Not Found" (404) at link https://brandikonic.com/logodesign/https:/brandikonic.com/wp-content/uploads/2023/09/6-Mr.-Todd.jpg (from https://brandikonic.com/logodesign/)
-16:43:44	Error: 	"Not Found" (404) at link https://brandikonic.com/logodesign/https:/brandikonic.com/wp-content/uploads/2023/09/5-Lukeri.jpg (from https://brandikonic.com/logodesign/)
-16:43:44	Error: 	"Not Found" (404) at link https://brandikonic.com/logodesign/https:/brandikonic.com/wp-content/uploads/2023/09/7-P.-Michle.jpg (from https://brandikonic.com/logodesign/)
-16:43:44	Error: 	"Not Found" (404) at link https://brandikonic.com/logodesign/https:/brandikonic.com/wp-content/uploads/2023/09/9-Yolanda.jpg (from https://brandikonic.com/logodesign/)
-16:43:44	Error: 	"Not Found" (404) at link https://brandikonic.com/logodesign/https:/brandikonic.com/wp-content/uploads/2023/09/3-Dr.-Krishna.jpg (from https://brandikonic.com/logodesign/)
-16:43:44	Error: 	"Not Found" (404) at link https://brandikonic.com/logodesign/https:/brandikonic.com/wp-content/uploads/2023/09/8-Subhadip.jpg (from https://brandikonic.com/logodesign/)
-16:43:44	Error: 	"Not Found" (404) at link https://brandikonic.com/logodesign/https:/brandikonic.com/wp-content/uploads/2023/09/2-Dr.-Chandresh.jpg (from https://brandikonic.com/logodesign/)
-16:43:44	Error: 	"Not Found" (404) at link https://brandikonic.com/logodesign/https:/brandikonic.com/wp-content/uploads/2023/09/1-Arun.jpg (from https://brandikonic.com/logodesign/)
-16:43:44	Warning: 	Retry after error -4 (No data (connection closed)) at link https://brandikonic.com/wp-content/uploads/2023/09/1-Fast-turnaround.png (from https://brandikonic.com/logodesign/)
-16:43:46	Warning: 	Moved Permanently for https://brandikonic.com/?p=2674
-16:43:46	Warning: 	File has moved from https://brandikonic.com/?p=2674 to https://brandikonic.com/webdesign/
-16:43:46	Warning: 	Moved Permanently for https://brandikonic.com/?p=2679
-16:43:46	Warning: 	File has moved from https://brandikonic.com/?p=2679 to https://brandikonic.com/packagingdesign/
-16:43:46	Warning: 	Retry after error -4 (No data (connection closed)) at link https://brandikonic.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fbrandikonic.com%2Fpackagingdesign%2F&format=xml (from https://brandikonic.com/packagingdesign/)
-16:43:46	Error: 	"Not Found" (404) at link https://brandikonic.com/packagingdesign/https:/brandikonic.com/wp-content/uploads/2023/09/6-Mr.-Todd.jpg (from https://brandikonic.com/packagingdesign/)
-16:43:46	Error: 	"Not Found" (404) at link https://brandikonic.com/packagingdesign/https:/brandikonic.com/wp-content/uploads/2023/09/5-Lukeri.jpg (from https://brandikonic.com/packagingdesign/)
-16:43:46	Error: 	"Not Found" (404) at link https://brandikonic.com/packagingdesign/https:/brandikonic.com/wp-content/uploads/2023/09/7-P.-Michle.jpg (from https://brandikonic.com/packagingdesign/)
-16:43:46	Error: 	"Not Found" (404) at link https://brandikonic.com/packagingdesign/https:/brandikonic.com/wp-content/uploads/2023/09/9-Yolanda.jpg (from https://brandikonic.com/packagingdesign/)
-16:43:46	Error: 	"Not Found" (404) at link https://brandikonic.com/packagingdesign/https:/brandikonic.com/wp-content/uploads/2023/09/3-Dr.-Krishna.jpg (from https://brandikonic.com/packagingdesign/)
-16:43:46	Error: 	"Not Found" (404) at link https://brandikonic.com/packagingdesign/https:/brandikonic.com/wp-content/uploads/2023/09/8-Subhadip.jpg (from https://brandikonic.com/packagingdesign/)
-16:43:46	Error: 	"Not Found" (404) at link https://brandikonic.com/packagingdesign/https:/brandikonic.com/wp-content/uploads/2023/09/2-Dr.-Chandresh.jpg (from https://brandikonic.com/packagingdesign/)
-16:43:46	Error: 	"Not Found" (404) at link https://brandikonic.com/packagingdesign/https:/brandikonic.com/wp-content/uploads/2023/09/1-Arun.jpg (from https://brandikonic.com/packagingdesign/)
-16:43:46	Warning: 	Retry after error -4 (No data (connection closed)) at link https://brandikonic.com/wp-json/wp/v2/pages/2659 (from https://brandikonic.com/brandname/)
-16:43:49	Warning: 	Moved Permanently for https://brandikonic.com/?p=2659
-16:43:49	Warning: 	File has moved from https://brandikonic.com/?p=2659 to https://brandikonic.com/brandname/
-16:43:49	Error: 	"Not Found" (404) at link https://brandikonic.com/brandname/https:/brandikonic.com/wp-content/uploads/2023/09/6-Mr.-Todd.jpg (from https://brandikonic.com/brandname/)
-16:43:49	Error: 	"Not Found" (404) at link https://brandikonic.com/brandname/https:/brandikonic.com/wp-content/uploads/2023/09/5-Lukeri.jpg (from https://brandikonic.com/brandname/)
-16:43:49	Error: 	"Not Found" (404) at link https://brandikonic.com/brandname/https:/brandikonic.com/wp-content/uploads/2023/09/7-P.-Michle.jpg (from https://brandikonic.com/brandname/)
-16:43:49	Error: 	"Not Found" (404) at link https://brandikonic.com/brandname/https:/brandikonic.com/wp-content/uploads/2023/09/9-Yolanda.jpg (from https://brandikonic.com/brandname/)
-16:43:49	Error: 	"Not Found" (404) at link https://brandikonic.com/brandname/https:/brandikonic.com/wp-content/uploads/2023/09/3-Dr.-Krishna.jpg (from https://brandikonic.com/brandname/)
-16:43:49	Error: 	"Not Found" (404) at link https://brandikonic.com/brandname/https:/brandikonic.com/wp-content/uploads/2023/09/8-Subhadip.jpg (from https://brandikonic.com/brandname/)
-16:43:49	Error: 	"Not Found" (404) at link https://brandikonic.com/brandname/https:/brandikonic.com/wp-content/uploads/2023/09/2-Dr.-Chandresh.jpg (from https://brandikonic.com/brandname/)
-16:43:49	Error: 	"Not Found" (404) at link https://brandikonic.com/brandname/https:/brandikonic.com/wp-content/uploads/2023/09/1-Arun.jpg (from https://brandikonic.com/brandname/)
-16:43:49	Warning: 	Retry after error -4 (No data (connection closed)) at link https://brandikonic.com/wp-content/uploads/2023/11/20-KEY-FEATURES@3x-scaled.jpg (from https://brandikonic.com/)
-16:43:49	Warning: 	Retry after error -4 (No data (connection closed)) at link https://brandikonic.com/refund-policy/ (from https://brandikonic.com/)
-16:43:51	Warning: 	Moved Permanently for https://brandikonic.com/?p=2474
-16:43:51	Warning: 	File has moved from https://brandikonic.com/?p=2474 to https://brandikonic.com/privacy-policy/
-16:44:07	Warning: 	Moved Permanently for https://brandikonic.com/?p=2488
-16:44:07	Warning: 	File has moved from https://brandikonic.com/?p=2488 to https://brandikonic.com/terms-of-service/
-16:44:07	Error: 	"No data (connection closed)" (-4) after 2 retries at link https://brandikonic.com/xmlrpc.php?rsd (from https://brandikonic.com/)
-16:44:07	Warning: 	Retry after error -4 (No data (connection closed)) at link https://brandikonic.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fbrandikonic.com%2Fpackagingdesign%2F&format=xml (from https://brandikonic.com/packagingdesign/)
-16:44:07	Error: 	"No data (connection closed)" (-4) after 2 retries at link https://brandikonic.com/wp-content/uploads/2023/11/20-KEY-FEATURES@3x-scaled.jpg (from https://brandikonic.com/)
-16:44:10	Warning: 	Moved Permanently for https://brandikonic.com/?p=2585
-16:44:10	Warning: 	File has moved from https://brandikonic.com/?p=2585 to https://brandikonic.com/logodesign-portfolio/
-16:44:10	Warning: 	Retry after error -4 (No data (connection closed)) at link https://brandikonic.com/wp-content/uploads/elementor/css/post-1085.css?ver=1698054585 (from https://brandikonic.com/refund-policy/)
-16:44:10	Warning: 	Retry after error -4 (No data (connection closed)) at link https://brandikonic.com/wp-json/wp/v2/pages/1085 (from https://brandikonic.com/refund-policy/)
-16:44:10	Warning: 	Moved Permanently for https://brandikonic.com/?p=1085
-16:44:10	Warning: 	File has moved from https://brandikonic.com/?p=1085 to https://brandikonic.com/refund-policy/
-
-HTTrack Website Copier/3.49-2 mirror complete in 5 minutes 57 seconds : 757 links scanned, 693 files written (429798982 bytes overall) [420148407 bytes received at 1176886 bytes/sec], 13262593 bytes transferred using HTTP compression in 213 files, ratio 18%, 20.7 requests per connection
-(35 errors, 36 warnings, 0 messages)
+HTTrack3.49-2+htsswf+htsjava launched on Wed, 22 Nov 2023 16:38:14 at https://brandikonic.com/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+branding360.in
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://brandikonic.com/ -O1 "C:\My Web Sites\branding new website" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+
+
+Information, Warnings and Errors reported for this mirror:
+
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,branding360.inbranding360.in
+branding360.inbranding360.inbranding360.in
+	such as username/password authentication for websites mirrored in this projectbranding360.in
+branding360.inbranding360.in
+	do not share these files/folders if you want these information to remain privatebranding360.inbranding360.in
+branding360.inbranding360.inbranding360.in
+branding360.inbranding360.inbranding360.in
+branding360.inbranding360.inbranding360.in
+16:42:16	Warning: 	Retry after error -4 (No data (cbranding360.ind)) at lbranding360.inndikonic.com/xmlrpc.php?rsd (from https://brandikonic.cobranding360.in
+branding360.inbranding360.inbranding360.in
+16:42:16	Warning: 	Retry after error -4 (No data (cbranding360.ind)) at lbranding360.inndikonic.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fbbranding360.in2F&format=xml (from https://brandikonic.com/)
+branding360.inbranding360.inbranding360.in
+16:42:16	Error: 	"Bad Request" (400) at link https:branding360.inmanager.branding360.in(from https://brandikonic.com/)branding360.in
+branding360.inbranding360.in
+16:43:27	Warning: 	Retry after error -4 (No data (connection closed)) at link https://brandikonic.com/wp-content/uploads/2023/11/Solar.png (from https://brandikonicbranding360.in
+branding360.inbranding360.in
+16:43:27	Warning: 	Retry after error -4 (No data (connection closed)) at link https://brandikonic.com/wp-contenbranding360.in11/20-KEY-FEATURES@3x-scaled.jpg (from https://brandbranding360.in
+branding360.inbranding360.in
+16:43:27	Error: 	"Not Found" (404) at link https://brandikonic.com/https:/brandikonic.branding360.inuploads/2023/09/6-Mr.-Todd.jpg (from https://brandikobranding360.in
+branding360.inbranding360.in
+16:43:27	Error: 	"Not Found" (404) at link https:branding360.inom/https:/brandikonic.com/wp-content/uploads/2023/09/5-Lukeri.jpg (from https://brandikonic.com/)
+branding360.inbranding360.in
+16:43:27	Error: 	"Not Found" (404) at link https://brandikonic.com/https:/brandikonic.branding360.inuploads/2023/09/7-P.-Michle.jpg (from https://brandikonic.com/)branding360.in
+branding360.inbranding360.inbranding360.in
+16:43:27	Error: 	"Not Found" (404) at link https://brandikonic.com/https:/brandikonicbranding360.in/uploads/2023/09/9-Yolanda.jpg (from https://brandikonibranding360.in
+branding360.inbranding360.inbranding360.in
+16:43:27	Error: 	"Not Found" (404) at link https://brandikonic.com/https:/brandikonicbranding360.in/uploads/2023/09/2-Dr.-Chandresh.jpg (from https://brandbranding360.in
+branding360.inbranding360.inbranding360.in
+16:43:27	Error: 	"Not Found" (404) at link https://brandikonic.com/https:/brandikonicbranding360.in/uploads/2023/09/8-Subhadip.jpg (from https://brandikonicbranding360.in
+branding360.inbranding360.inbranding360.in
+16:43:27	Error: 	"Not Found" (404) at link https://brandikonic.com/https:/brandikonicbranding360.in/uploads/2023/09/3-Dr.-Krishna.jpg (from https://branbranding360.in
+branding360.inbranding360.in
+16:43:27	Error: 	"Not Found" (404) at link https:branding360.inom/https:/brandikonic.com/wp-content/uploads/2023/09/1-Arun.jpg (from https://brandikonic.com/)
+branding360.inbranding360.in
+16:43:27	Warning: 	Retry after error -4 (No data branding360.insed)) at link https://brandikonic.com/refund-policy/ (from https://brandikonic.com/)
+branding360.inbranding360.in
+16:43:33	Warning: 	Retry after error -4 (No data (connection closed)) at link https://brandikonic.com/wp-content/uploads/2023/11/Website-Design-4branding360.ins://brandikonic.com/)branding360.in
+branding360.inbranding360.inbranding360.in
+16:43:33	Warning: 	Retry after error -4 (No data (cbranding360.ind)) at link https://branbranding360.incontent/uploads/2023/11/Website-Design-6.png (from httpbranding360.in.com/)
+branding360.inbranding360.inbranding360.in
+16:43:33	Warning: 	Retry after error -4 (Incorrect branding360.in9 Bytes, 22768169 expectbranding360.intps://brandikonic.com/wp-content/uploads/2023/11/PPT-4.pbranding360.in//brandikonic.com/)
+branding360.inbranding360.inbranding360.in
+16:43:33	Warning: 	Retry after error -4 (Incorrect branding360.in1 Bytes, 18330095 expectbranding360.intps://brandikonic.com/wp-content/uploads/2023/11/PPT-7.pnbranding360.in/brandikonic.com/)
+branding360.inbranding360.inbranding360.in
+16:43:36	Warning: 	Retry after error -4 (No data (cbranding360.ind)) at link https://branbranding360.incontent/uploads/2023/11/PPT-14.png (from https://branbranding360.in
+branding360.inbranding360.in
+16:43:41	Warning: 	Retry after error -4 (No data branding360.insed)) at link https://brandikonic.com/xmlrpc.php?rsd (from https://brandikonic.com/)
+branding360.inbranding360.in
+16:43:42	Warning: 	Moved Permanently for https://brbranding360.inp=169branding360.inbranding360.in
+branding360.inbranding360.inbranding360.in
+16:43:42	Warning: 	File has moved from https://branbranding360.in169 to https://brabranding360.ingodesign/branding360.in
+branding360.inbranding360.inbranding360.in
+16:43:42	Warning: 	Retry after error -4 (No data (cbranding360.ind)) at link https:branding360.inom/wp-content/uploads/2023/09/Logo_Portfolio_fashion_WD-1.jpbranding360.in/brandikonic.com/logodesign/)
+branding360.inbranding360.inbranding360.in
+16:43:44	Error: 	"Not Found" (404) at link https://brandikonic.com/logodesign/https:branding360.inm/wp-content/uploads/2023/09/6-Mr.-Todd.jpg (from https://branbranding360.inodesign/)
+branding360.inbranding360.inbranding360.in
+16:43:44	Error: 	"Not Found" (404) at link https://brandikonic.com/logodesign/https:/bbranding360.inwp-content/uploads/2023/09/5-Lukeri.jpg (from https://brandikonic.com/lobranding360.in
+branding360.inbranding360.in
+16:43:44	Error: 	"Not Found" (404) at link https:branding360.inom/logodesign/https:/brandikonic.com/wp-content/uploads/2023/09/7-P.-Michle.jpg (from https://brandikonic.com/logodesign/)
+branding360.inbranding360.in
+16:43:44	Error: 	"Not Found" (404) at link https:branding360.inom/logodesign/https:/brandikonic.com/wp-content/uploads/2023/09/9-Yolanda.jpg (from https://brandikonic.com/logodesign/)
+branding360.inbranding360.in
+16:43:44	Error: 	"Not Found" (404) at link https://brandikonic.com/logodesign/https:branding360.inm/wp-content/uploads/2023/09/3branding360.ing (from https://brandikonic.com/logodesign/)
+branding360.inbranding360.inbranding360.in
+16:43:44	Error: 	"Not Found" (404) at link https://brandikonic.com/logodesign/https:branding360.inm/wp-content/uploads/2023/09/8-Subhadip.jpg (from https://brandikonic.cobranding360.in
+branding360.in
+16:43:44	Error: 	"Not Found" (404) at link httpbranding360.in.com/logodesign/httpbranding360.incom/wp-content/uploads/2023/09/2-Dr.-Chandresh.jpg (from https://brandikonic.com/logodesign/)
+branding360.inbranding360.in
+16:43:44	Error: 	"Not Found" (404) at link https://brandikonic.com/logodesign/https:/bbranding360.inwp-content/uploads/2023/09/1-Arun.jpg (fbranding360.inndikonic.com/logodesign/)
+branding360.in
+16:43:44	Warning: 	Retry after error -4 (No datbranding360.inlosed)) at link httpbranding360.in.com/wp-content/uploads/2023/09/1-Fast-turnaround.png (from https://brandikonic.com/logodesign/)
+
+16:43:46	Warning: 	Moved Permanently for https://brandikonic.com/?p=2674
+
+16:43:46	Warning: 	File has moved from https://brandikonic.com/?p=2674 to https://brandikonic.com/webdesign/
+
+16:43:46	Warning: 	Moved Permanently for https://brandikonic.com/?p=2679
+
+16:43:46	Warning: 	File has moved from https://brandikonic.com/?p=2679 to https://brandikonic.com/packagingdesign/
+
+16:43:46	Warning: 	Retry after error -4 (No data (connection closed)) at link https://brandikonic.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fbrandikonic.com%2Fpackagingdesign%2F&format=xml (from https://brandikonic.com/packagingdesign/)
+
+16:43:46	Error: 	"Not Found" (404) at link https://brandikonic.com/packagingdesign/https:/brandikonic.com/wp-content/uploads/2023/09/6-Mr.-Todd.jpg (from https://brandikonic.com/packagingdesign/)
+
+16:43:46	Error: 	"Not Found" (404) at link https://brandikonic.com/packagingdesign/https:/brandikonic.com/wp-content/uploads/2023/09/5-Lukeri.jpg (from https://brandikonic.com/packagingdesign/)
+
+16:43:46	Error: 	"Not Found" (404) at link https://brandikonic.com/packagingdesign/https:/brandikonic.com/wp-content/uploads/2023/09/7-P.-Michle.jpg (from https://brandikonic.com/packagingdesign/)
+
+16:43:46	Error: 	"Not Found" (404) at link https://brandikonic.com/packagingdesign/https:/brandikonic.com/wp-content/uploads/2023/09/9-Yolanda.jpg (from https://brandikonic.com/packagingdesign/)
+
+16:43:46	Error: 	"Not Found" (404) at link https://brandikonic.com/packagingdesign/https:/brandikonic.com/wp-content/uploads/2023/09/3-Dr.-Krishna.jpg (from https://brandikonic.com/packagingdesign/)
+
+16:43:46	Error: 	"Not Found" (404) at link https://brandikonic.com/packagingdesign/https:/brandikonic.com/wp-content/uploads/2023/09/8-Subhadip.jpg (from https://brandikonic.com/packagingdesign/)
+
+16:43:46	Error: 	"Not Found" (404) at link https://brandikonic.com/packagingdesign/https:/brandikonic.com/wp-content/uploads/2023/09/2-Dr.-Chandresh.jpg (from https://brandikonic.com/packagingdesign/)
+
+16:43:46	Error: 	"Not Found" (404) at link https://brandikonic.com/packagingdesign/https:/brandikonic.com/wp-content/uploads/2023/09/1-Arun.jpg (from https://brandikonic.com/packagingdesign/)
+
+16:43:46	Warning: 	Retry after error -4 (No data (connection closed)) at link https://brandikonic.com/wp-json/wp/v2/pages/2659 (from https://brandikonic.com/brandname/)
+
+16:43:49	Warning: 	Moved Permanently for https://brandikonic.com/?p=2659
+
+16:43:49	Warning: 	File has moved from https://brandikonic.com/?p=2659 to https://brandikonic.com/brandname/
+
+16:43:49	Error: 	"Not Found" (404) at link https://brandikonic.com/brandname/https:/brandikonic.com/wp-content/uploads/2023/09/6-Mr.-Todd.jpg (from https://brandikonic.com/brandname/)
+
+16:43:49	Error: 	"Not Found" (404) at link https://brandikonic.com/brandname/https:/brandikonic.com/wp-content/uploads/2023/09/5-Lukeri.jpg (from https://brandikonic.com/brandname/)
+
+16:43:49	Error: 	"Not Found" (404) at link https://brandikonic.com/brandname/https:/brandikonic.com/wp-content/uploads/2023/09/7-P.-Michle.jpg (from https://brandikonic.com/brandname/)
+
+16:43:49	Error: 	"Not Found" (404) at link https://brandikonic.com/brandname/https:/brandikonic.com/wp-content/uploads/2023/09/9-Yolanda.jpg (from https://brandikonic.com/brandname/)
+
+16:43:49	Error: 	"Not Found" (404) at link https://brandikonic.com/brandname/https:/brandikonic.com/wp-content/uploads/2023/09/3-Dr.-Krishna.jpg (from https://brandikonic.com/brandname/)
+
+16:43:49	Error: 	"Not Found" (404) at link https://brandikonic.com/brandname/https:/brandikonic.com/wp-content/uploads/2023/09/8-Subhadip.jpg (from https://brandikonic.com/brandname/)
+
+16:43:49	Error: 	"Not Found" (404) at link https://brandikonic.com/brandname/https:/brandikonic.com/wp-content/uploads/2023/09/2-Dr.-Chandresh.jpg (from https://brandikonic.com/brandname/)
+
+16:43:49	Error: 	"Not Found" (404) at link https://brandikonic.com/brandname/https:/brandikonic.com/wp-content/uploads/2023/09/1-Arun.jpg (from https://brandikonic.com/brandname/)
+
+16:43:49	Warning: 	Retry after error -4 (No data (connection closed)) at link https://brandikonic.com/wp-content/uploads/2023/11/20-KEY-FEATURES@3x-scaled.jpg (from https://brandikonic.com/)
+
+16:43:49	Warning: 	Retry after error -4 (No data (connection closed)) at link https://brandikonic.com/refund-policy/ (from https://brandikonic.com/)
+
+16:43:51	Warning: 	Moved Permanently for https://brandikonic.com/?p=2474
+
+16:43:51	Warning: 	File has moved from https://brandikonic.com/?p=2474 to https://brandikonic.com/privacy-policy/
+
+16:44:07	Warning: 	Moved Permanently for https://brandikonic.com/?p=2488
+
+16:44:07	Warning: 	File has moved from https://brandikonic.com/?p=2488 to https://brandikonic.com/terms-of-service/
+
+16:44:07	Error: 	"No data (connection closed)" (-4) after 2 retries at link https://brandikonic.com/xmlrpc.php?rsd (from https://brandikonic.com/)
+
+16:44:07	Warning: 	Retry after error -4 (No data (connection closed)) at link https://brandikonic.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fbrandikonic.com%2Fpackagingdesign%2F&format=xml (from https://brandikonic.com/packagingdesign/)
+
+16:44:07	Error: 	"No data (connection closed)" (-4) after 2 retries at link https://brandikonic.com/wp-content/uploads/2023/11/20-KEY-FEATURES@3x-scaled.jpg (from https://brandikonic.com/)
+
+16:44:10	Warning: 	Moved Permanently for https://brandikonic.com/?p=2585
+
+16:44:10	Warning: 	File has moved from https://brandikonic.com/?p=2585 to https://brandikonic.com/logodesign-portfolio/
+
+16:44:10	Warning: 	Retry after error -4 (No data (connection closed)) at link https://brandikonic.com/wp-content/uploads/elementor/css/post-1085.css?ver=1698054585 (from https://brandikonic.com/refund-policy/)
+
+16:44:10	Warning: 	Retry after error -4 (No data (connection closed)) at link https://brandikonic.com/wp-json/wp/v2/pages/1085 (from https://brandikonic.com/refund-policy/)
+
+16:44:10	Warning: 	Moved Permanently for https://brandikonic.com/?p=1085
+
+16:44:10	Warning: 	File has moved from https://brandikonic.com/?p=1085 to https://brandikonic.com/refund-policy/
+
+
+
+HTTrack Website Copier/3.49-2 mirror complete in 5 minutes 57 seconds : 757 links scanned, 693 files written (429798982 bytes overall) [420148407 bytes received at 1176886 bytes/sec], 13262593 bytes transferred using HTTP compression in 213 files, ratio 18%, 20.7 requests per connection
+
+(35 errors, 36 warnings, 0 messages)
+
